@@ -1,0 +1,14 @@
+{
+  "name": "survey-knockout-dc",
+  "version": "0.1.2",
+  "description": "survey.js is a JavaScript Survey Library. It is a modern way to add a survey to your website. It uses JSON for survey metadata and results.",
+  "main": "survey.ko.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "survey-knockout-dc"
+  ],
+  "author": "wangyanfei",
+  "license": "ISC"
+}
